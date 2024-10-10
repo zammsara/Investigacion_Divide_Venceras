@@ -3,22 +3,81 @@
   "WorkspaceRootPath": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\investigacion\\investigacion_divide_venceras\\mergesort-ejemplo\\mergesort-ejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\investigacion\\investigacion_divide_venceras\\mergesort-ejemplo\\mergesort-ejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|solutionrelative:mergesort-ejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\mergesort-ejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|solutionrelative:mergesort-ejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\investigacion\\investigacion_divide_venceras\\mergesort-ejemplo\\mergesort-ejemplo\\models\\logicamergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|solutionrelative:mergesort-ejemplo\\models\\logicamergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\investigacion\\investigacion_divide_venceras\\mergesort-ejemplo\\mergesort-ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CBB765-A5C8-47F3-B081-43F5EE77713B}|MergeSort-Ejemplo\\MergeSort-Ejemplo.csproj|solutionrelative:mergesort-ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 133,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSort-Ejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\Program.cs",
+              "RelativeToolTip": "MergeSort-Ejemplo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:57:15.24Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "MergeSort-Ejemplo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\Form1.cs",
+              "RelativeToolTip": "MergeSort-Ejemplo\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:50:58.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogicaMergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\models\\LogicaMergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort-Ejemplo\\models\\LogicaMergeSort.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\models\\LogicaMergeSort.cs",
+              "RelativeToolTip": "MergeSort-Ejemplo\\models\\LogicaMergeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:26:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\Investigacion\\Investigacion_Divide_Venceras\\MergeSort-Ejemplo\\MergeSort-Ejemplo\\Form1.cs",
               "RelativeDocumentMoniker": "MergeSort-Ejemplo\\Form1.cs",
@@ -27,14 +86,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T21:23:24.122Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

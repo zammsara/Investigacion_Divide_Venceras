@@ -1,0 +1,10 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\bin\Debug\MergeSort-Ejemplo.exe.config
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\bin\Debug\MergeSort-Ejemplo.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\bin\Debug\MergeSort-Ejemplo.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort-Ejemplo.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort_Ejemplo.Form1.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort_Ejemplo.Properties.Resources.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort-Ejemplo.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort-Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort-Ejemplo.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\Investigacion\Investigacion_Divide_Venceras\MergeSort-Ejemplo\MergeSort-Ejemplo\obj\Debug\MergeSort-Ejemplo.pdb

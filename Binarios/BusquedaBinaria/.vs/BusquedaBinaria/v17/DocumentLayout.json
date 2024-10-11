@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HomeLap\\Desktop\\Investigacion_Divide_Venceras\\Binarios\\BusquedaBinaria\\",
+  "WorkspaceRootPath": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\Binarios\\BusquedaBinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{672ED695-D0B8-48F4-B205-7F5786A2F042}|BusquedaBinaria\\BusquedaBinaria.csproj|c:\\users\\homelap\\desktop\\investigacion_divide_venceras\\binarios\\busquedabinaria\\busquedabinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{672ED695-D0B8-48F4-B205-7F5786A2F042}|BusquedaBinaria\\BusquedaBinaria.csproj|c:\\users\\kagab\\desktop\\divideconquer\\binarios\\busquedabinaria\\busquedabinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{672ED695-D0B8-48F4-B205-7F5786A2F042}|BusquedaBinaria\\BusquedaBinaria.csproj|solutionrelative:busquedabinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HomeLap\\Desktop\\Investigacion_Divide_Venceras\\Binarios\\BusquedaBinaria\\BusquedaBinaria\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\Binarios\\BusquedaBinaria\\BusquedaBinaria\\Form1.cs",
               "RelativeDocumentMoniker": "BusquedaBinaria\\Form1.cs",
-              "ToolTip": "C:\\Users\\HomeLap\\Desktop\\Investigacion_Divide_Venceras\\Binarios\\BusquedaBinaria\\BusquedaBinaria\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "BusquedaBinaria\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\Binarios\\BusquedaBinaria\\BusquedaBinaria\\Form1.cs [Design]",
+              "RelativeToolTip": "BusquedaBinaria\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T01:41:26.005Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

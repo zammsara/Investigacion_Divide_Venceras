@@ -1,0 +1,10 @@
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.AssemblyReference.cache
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.Form1.resources
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.Properties.Resources.resources
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.GenerateResource.cache
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\HomeLap\Desktop\Divide y venceras\Investigacion_Divide_Venceras\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb

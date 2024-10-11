@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\DELL E7250\\Documents\\Divide y Vencer\u00E1s\\Investigacion_Divide_Venceras\\AlgoritmoDeStrassen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|c:\\users\\dell e7250\\documents\\divide y vencer\u00E1s\\investigacion_divide_venceras\\algoritmodestrassen\\algoritmodestrassen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|C:\\Users\\DELL E7250\\Documents\\Divide y Vencer\u00E1s\\Investigacion_Divide_Venceras\\AlgoritmoDeStrassen\\algoritmodestrassen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|solutionrelative:algoritmodestrassen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|c:\\users\\dell e7250\\documents\\divide y vencer\u00E1s\\investigacion_divide_venceras\\algoritmodestrassen\\algoritmodestrassen\\models\\matrixmultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|solutionrelative:algoritmodestrassen\\models\\matrixmultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|c:\\users\\dell e7250\\documents\\divide y vencer\u00E1s\\investigacion_divide_venceras\\algoritmodestrassen\\algoritmodestrassen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC61AF-1562-48B6-BF13-EA88E647228F}|AlgoritmoDeStrassen\\AlgoritmoDeStrassen.csproj|solutionrelative:algoritmodestrassen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\Divide y Vencer\u00E1s\\Investigacion_Divide_Venceras\\AlgoritmoDeStrassen\\AlgoritmoDeStrassen\\Form1.cs",
+              "RelativeDocumentMoniker": "AlgoritmoDeStrassen\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\Divide y Vencer\u00E1s\\Investigacion_Divide_Venceras\\AlgoritmoDeStrassen\\AlgoritmoDeStrassen\\Form1.cs",
+              "RelativeToolTip": "AlgoritmoDeStrassen\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:54:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixMultiplication.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\Divide y Vencer\u00E1s\\Investigacion_Divide_Venceras\\AlgoritmoDeStrassen\\AlgoritmoDeStrassen\\Models\\MatrixMultiplication.cs",
+              "RelativeDocumentMoniker": "AlgoritmoDeStrassen\\Models\\MatrixMultiplication.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\Divide y Vencer\u00E1s\\Investigacion_Divide_Venceras\\AlgoritmoDeStrassen\\AlgoritmoDeStrassen\\Models\\MatrixMultiplication.cs",
+              "RelativeToolTip": "AlgoritmoDeStrassen\\Models\\MatrixMultiplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:43:40.18Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

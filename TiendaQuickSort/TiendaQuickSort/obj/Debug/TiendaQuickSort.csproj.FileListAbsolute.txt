@@ -1,0 +1,10 @@
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\bin\Debug\TiendaQuickSort.exe.config
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\bin\Debug\TiendaQuickSort.exe
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\bin\Debug\TiendaQuickSort.pdb
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.csproj.AssemblyReference.cache
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.Properties.Resources.resources
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.csproj.GenerateResource.cache
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.exe
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.pdb
+C:\Users\Kagab\Desktop\DivideConquer\TiendaQuickSort\TiendaQuickSort\obj\Debug\TiendaQuickSort.Producto.resources

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\tiendaquicksort\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|solutionrelative:tiendaquicksort\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|c:\\users\\kagab\\desktop\\divideconquer\\tiendaquicksort\\tiendaquicksort\\models\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|solutionrelative:tiendaquicksort\\models\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|c:\\users\\kagab\\desktop\\divideconquer\\tiendaquicksort\\tiendaquicksort\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|solutionrelative:tiendaquicksort\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\tiendaquicksort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|solutionrelative:tiendaquicksort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|c:\\users\\kagab\\desktop\\divideconquer\\tiendaquicksort\\tiendaquicksort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC45D9F-AF49-47A1-BDC7-52E1378ACF90}|TiendaQuickSort\\TiendaQuickSort.csproj|solutionrelative:tiendaquicksort\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\Form1.cs",
+              "RelativeDocumentMoniker": "TiendaQuickSort\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\Form1.cs",
+              "RelativeToolTip": "TiendaQuickSort\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:50:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "QuickSort.cs",
               "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\models\\QuickSort.cs",
               "RelativeDocumentMoniker": "TiendaQuickSort\\models\\QuickSort.cs",
               "ToolTip": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\models\\QuickSort.cs",
               "RelativeToolTip": "TiendaQuickSort\\models\\QuickSort.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T02:33:47.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\models\\Producto.cs",
               "RelativeDocumentMoniker": "TiendaQuickSort\\models\\Producto.cs",
               "ToolTip": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\models\\Producto.cs",
               "RelativeToolTip": "TiendaQuickSort\\models\\Producto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T02:28:49.286Z",
               "EditorCaption": ""
@@ -59,7 +76,8 @@
               "ToolTip": "C:\\Users\\Kagab\\Desktop\\DivideConquer\\TiendaQuickSort\\TiendaQuickSort\\Form1.cs [Design]",
               "RelativeToolTip": "TiendaQuickSort\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T02:26:29.674Z"
+              "WhenOpened": "2024-10-11T02:26:29.674Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

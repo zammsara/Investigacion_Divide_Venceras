@@ -21,7 +21,7 @@ namespace TiendaQuickSort.models
         // se sobre escribe ToString para mostrar el nombre y precio en el listbox
         public override string ToString()
         {
-            return $"{Nombre} - ${Precio}";
+            return $"{Nombre} - C${Precio}";
         }
     }
 }

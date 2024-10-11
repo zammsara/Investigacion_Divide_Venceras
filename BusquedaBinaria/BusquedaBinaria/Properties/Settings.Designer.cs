@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Binarios.Properties
+namespace BusquedaBinaria.Properties
 {
 
 

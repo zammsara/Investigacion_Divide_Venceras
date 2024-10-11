@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarios", "Binarios\Binarios.csproj", "{A06742E5-C966-4B66-B7C8-8F7F167D209D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedaBinaria", "BusquedaBinaria\BusquedaBinaria.csproj", "{6772349A-916B-4ADC-A22D-31F2F97A1C23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A06742E5-C966-4B66-B7C8-8F7F167D209D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A06742E5-C966-4B66-B7C8-8F7F167D209D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A06742E5-C966-4B66-B7C8-8F7F167D209D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A06742E5-C966-4B66-B7C8-8F7F167D209D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6772349A-916B-4ADC-A22D-31F2F97A1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6772349A-916B-4ADC-A22D-31F2F97A1C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6772349A-916B-4ADC-A22D-31F2F97A1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6772349A-916B-4ADC-A22D-31F2F97A1C23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C2BC593A-8D4E-4C1A-858B-17845FBE260D}
+		SolutionGuid = {82562A6F-B243-4805-9F1F-D5D5D4CF482C}
 	EndGlobalSection
 EndGlobal

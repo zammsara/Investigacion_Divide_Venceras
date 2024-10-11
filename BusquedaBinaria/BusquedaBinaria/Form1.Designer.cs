@@ -1,4 +1,4 @@
-﻿namespace Binarios
+﻿namespace BusquedaBinaria
 {
     partial class Form1
     {

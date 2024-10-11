@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomeLap\\Desktop\\Divide y venceras\\Investigacion_Divide_Venceras\\BusquedaBinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6772349A-916B-4ADC-A22D-31F2F97A1C23}|BusquedaBinaria\\BusquedaBinaria.csproj|c:\\users\\homelap\\desktop\\divide y venceras\\investigacion_divide_venceras\\busquedabinaria\\busquedabinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6772349A-916B-4ADC-A22D-31F2F97A1C23}|BusquedaBinaria\\BusquedaBinaria.csproj|solutionrelative:busquedabinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Desktop\\Divide y venceras\\Investigacion_Divide_Venceras\\BusquedaBinaria\\BusquedaBinaria\\Form1.cs",
+              "RelativeDocumentMoniker": "BusquedaBinaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Desktop\\Divide y venceras\\Investigacion_Divide_Venceras\\BusquedaBinaria\\BusquedaBinaria\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BusquedaBinaria\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:25:18.323Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
